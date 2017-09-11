@@ -1,0 +1,16 @@
+{
+  "name": "pachong",
+  "version": "1.0.0",
+  "description": "实现一个\u001b[D\u001b[D\u001b[D\u0016\u001b[D\u001b[D\u001b[D\u001b[D\u0016\u0016\u001b[C\u001b[C\u001b[C\u001b[C\u001b[superagent和cheerio分�实现简单爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gao",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "superagent": "^3.6.0"
+  }
+}

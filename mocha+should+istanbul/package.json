@@ -1,0 +1,16 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "mocha+should+istandul",
+  "main": "main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "gao",
+  "license": "ISC",
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.5.0",
+    "should": "^13.0.0"
+  }
+}

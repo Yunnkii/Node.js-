@@ -1,0 +1,17 @@
+{
+  "name": "supertest",
+  "version": "1.0.0",
+  "description": "supertest简单实用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gao",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.4"
+  },
+  "dependencies": {
+    "supertest": "^3.0.0"
+  }
+}
